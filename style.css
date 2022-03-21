@@ -146,7 +146,8 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
 }
  /* ************* FOOTER ************** */
 }
-    footer { background-color: rgb(6, 53, 1);
+    footer { 
+        background-color: rgb(15, 58, 11);
         color: #FFFAE1;
         padding: 20px 0 10px 0;
         text-align: center;
