@@ -144,3 +144,53 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
     box-shadow: 4px 4px 0 1px black;
     opacity: 0.75;
 }
+ /* ************* FOOTER ************** */
+}
+    footer {
+        background-color: rgb(15, 82, 7);
+        color: #FFFAE1;
+        padding: 20px 0 10px 0;
+        text-align: center;
+    }
+    form {
+        margin: 0 auto;
+        max-width: 900px;
+    }
+    input, textarea, button{
+        border: none;
+        width: 55%;
+        padding: 15px 10px;
+        margin: 1px 0;
+        font-size: 1.2em;
+        font-family: 'Advent Pro' , sans-serif ;
+        border-radius: 8px;
+    }
+    textarea{
+        height: 120px;
+    }
+    button {
+        font :1.5em;
+        background-color: #FFFAE1;
+    }
+    button:hover {
+        background-color: blue;
+        color: #FFFAE1;
+        cursor: pointer;
+        transition: 0.3s ease-in-out;
+    }
+    #deuxiemeTRAIT {
+        height: 1px;
+        width: 75%;
+        background-color: #FFFAE1;
+        margin: 60px auto;
+    }
+    #copyrightEtIcons {
+        display: flex;
+        margin-bottom: 20px;
+        padding: 0 10%;
+    }
+    #copyright {
+        width: 50%;
+        text-align: left;
+        color: #FFFAE1;
+    }
