@@ -158,9 +158,9 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
     }
     input, textarea, button {
         border: none;
-        width: 75%;
+        width: 55%;
         padding: 10px 20%;
-        margin: auto;
+        margin: 0 50px;
         font-size: 1.2em;
         font-family: 'Advent Pro' , sans-serif ;
         border-radius: 8px;
@@ -174,7 +174,7 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         padding: 20%
         font :1.5em;
         background-color: #FFFAE1;
-        text-align: center
+        margin: 0 50px;
     }
     button:hover {
         background-color: blue;
