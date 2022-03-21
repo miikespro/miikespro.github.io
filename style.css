@@ -158,9 +158,9 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
     }
     input, textarea, button {
         border: none;
-        width: 55%;
+        width: 75%;
         padding: 10px 20%;
-        margin: 1px 0;
+        margin: auto;
         font-size: 1.2em;
         font-family: 'Advent Pro' , sans-serif ;
         border-radius: 8px;
