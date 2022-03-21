@@ -171,7 +171,8 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         text-align: center
     }
     button {
-        padding: 20%
+        padding: 25%;
+        width: auto;
         font :1.5em;
         background-color: #FFFAE1;
         margin: 0 50px;
