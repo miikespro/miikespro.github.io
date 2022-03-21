@@ -187,13 +187,17 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         background-color: #FFFAE1;
         margin: 60px auto;
     }
-    #copyrightEtIcons {
+   #copyrightEtIcons {
         display: flex;
         margin-bottom: 20px;
         padding: 0 10%;
     }
     #copyright {
         width: 50%;
-        text-align: right;
+        text-align: left;
         color: #FFFAE1;
+    }
+    #icons {
+        width: 50%;
+        text-align: right;
    }
