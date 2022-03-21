@@ -158,7 +158,7 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
     }
     input, textarea, button {
         border: none;
-        width: 55%;
+        width: 0;
         padding: 10px 20%;
         margin: 0 50px;
         font-size: 1.2em;
