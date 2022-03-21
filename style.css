@@ -156,7 +156,7 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         margin: 0 auto;
         max-width: 900px;
     }
-    input, textarea, button{
+    input, textarea, button {
         border: none;
         width: 55%;
         padding: 15px 10px;
@@ -164,13 +164,16 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         font-size: 1.2em;
         font-family: 'Advent Pro' , sans-serif ;
         border-radius: 8px;
+        text-align: center
     }
     textarea{
         height: 120px;
+        text-align: center
     }
     button {
         font :1.5em;
         background-color: #FFFAE1;
+        text-align: center
     }
     button:hover {
         background-color: blue;
@@ -193,6 +196,4 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         width: 50%;
         text-align: left;
         color: #FFFAE1;
-   #footer {
-         background-color:rgb(70, 33, 33) ;
-    }
+   }
