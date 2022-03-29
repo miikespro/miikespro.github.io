@@ -156,7 +156,7 @@ box-shadow: 5px 6px 10px 6px rgb(1, 36, 1);
         margin: 0 auto;
         max-width: 900px;
     }
-    input, textarea, button <input type="submit" style="margin-left: 50%"> {
+    input, textarea, button, type="submit" style="margin-left: 50%"> {
         border: none;
         width: 55%;
         padding: 10px 20%;
